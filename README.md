@@ -1,2 +1,2 @@
 # AdventOfCode23
-puzzles
+Code for [Advent of Code]() puzzles
